@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestPortal</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="message">Message</string>
+    <string name="successPalindrome">isPalindrome</string>
+    <string name="failedPalindrome">not palindrome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="back">back</string>
+    <string name="welcome">Welcome</string>
+    <string name="the_name">The Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="email_email_com">Email@Email.com</string>
+    <string name="there_s_is_no_selected_user_name">There\'s is no selected User Name</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="fill_input_palindrome">Please Fill the Palindrome box input</string>
+    <string name="fill_input_name">Please Fill the Name box input</string>
+</resources>
